@@ -200,7 +200,6 @@ pure_eval==0.2.3
 puremagic==1.30
 py4j==0.10.9.9
 pyaml==25.7.0
-pyarrow==21.0.0
 pyasn1==0.6.1
 pyasn1_modules==0.4.2
 pycaret==3.3.2
@@ -328,4 +327,5 @@ zict==3.0.0
 zipp==3.23.0
 zope.event==6.0
 zope.interface==8.0.1
+
 
