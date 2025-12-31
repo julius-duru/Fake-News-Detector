@@ -1,7 +1,7 @@
 Production-ready Fake News Detection system built with NLP and Machine Learning.
 The project demonstrates strong ML fundamentals, data leakage prevention, feature engineering, and model persistence.
 
-# Fake News Detection (NLP + Machine Learning)
+# Fake News Detection (NLP + Machine Learning): https://news-detection-app.streamlit.app/
 
 ## Overview
 This project implements a production-ready **Fake News Detection system** using Natural Language Processing and supervised machine learning. The model classifies news articles as **Fake (0)** or **Real (1)** using TF-IDF features and Logistic Regression.
@@ -43,3 +43,4 @@ The project emphasizes **correct ML methodology**, including data leakage preven
 ## Author
 **Julius Duru**  
 Presales Engineer | Data Science & Machine Learning
+
